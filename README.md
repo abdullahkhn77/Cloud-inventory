@@ -51,11 +51,6 @@ $ python -m pytest --import-mode=append test/
 <<<<<<< Updated upstream
 
 
-# Assignment 4 
-
-## Packer and AMI
-
-
 <ul><li>Install Packer</li></ul>
 
 
