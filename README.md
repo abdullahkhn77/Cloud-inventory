@@ -11,11 +11,7 @@ ____
 ## Build Instructions
 <ul> 
 <li>Clone this repository </li> 
-</ul>
 
-$ git clone git@github.com:Disha-Patil-Cloud-CYSE6225/webapp.git
-
-<ul> 
 <li>Navigate to webapp directory </li> 
 </ul>
 
